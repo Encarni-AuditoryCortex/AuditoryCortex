@@ -10,6 +10,7 @@ This repository has been created to share my investigation project about the bra
 Project of investigation: Cortical Deafness and the Auditory Agnosia
 
 A SHORT INTRODUCTION OF THE BRAIN
+
 The brain belongs to Central Nervous System (CNS) and it is composed by encephalon and spinal cord. The encephalon has three parts: brain, cerebellum and brainstem. The brain has two hemispheric (left and right) and a cerebral cortex and subcortex. Furthermore each lobe is divided in four external lobes: frontal lobe, parietal lobe, temporal lobe and occipital lobe. The cerebral cortexes of the temporal lobes are associated to comprehensive language and its brain damage cause comprehensive language impairments as aphasia, cortical deafness or auditory agnosia. In the subcortex are basal ganglia and auditory radiatons which go from medial geniculate nucleus (thalamus) to temporal cortex. The subcortex is connecting with the language and its lesion may cause comprehensive language impairment too.  
 
 DEFINITION
