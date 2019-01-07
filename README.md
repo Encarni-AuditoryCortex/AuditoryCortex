@@ -58,9 +58,9 @@ Given researches about cortical deafness and auditory agnosia are limited and th
 Subsequently to the epidemiology study it is propose the neuronal and cognitive study and establish the rehabilitation to improve the quality of life of the patients. This rehabilitation is open to new technologies that may help patients to communicate with other people of way independent. 
 
 
-https://github.com/Encarni-SpeechTherapy/The-Brain-is-Wonderful/blob/master/LICENSE.txt
+LICENSE: https://github.com/Encarni-SpeechTherapy/The-Brain-is-Wonderful/blob/master/LICENSE.txt
 
-https://github.com/Encarni-SpeechTherapy/The-Brain-is-Wonderful/blob/master/CODE_OF_CONDUCT.md
+CODE OF CONDUCT: https://github.com/Encarni-SpeechTherapy/The-Brain-is-Wonderful/blob/master/CODE_OF_CONDUCT.md
 
 
       
