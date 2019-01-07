@@ -60,6 +60,8 @@ Subsequently to the epidemiology study it is propose the neuronal and cognitive 
 
 https://github.com/Encarni-SpeechTherapy/The-Brain-is-Wonderful/blob/master/LICENSE.txt
 
+https://github.com/Encarni-SpeechTherapy/The-Brain-is-Wonderful/blob/master/CODE_OF_CONDUCT.md
+
 
       
 
