@@ -5,7 +5,7 @@ mail: encarni.speechtherapy9@gmail.com
 
 DOI 10.5281/zenodo.2529046 
 
-This repository has been created to share my investigation project about the brain, specifically of the Cortical Deafness and the Auditory Agnosia. At the moment the project is in the first phase: “literature review”. 
+This repository has been created to share my investigation project about the brain, specifically on the Cortical Deafness and the Auditory Agnosia. At the moment the project is in the first phase: “literature review”. 
 
 Project of investigation: Cortical Deafness and the Auditory Agnosia
 
