@@ -15,7 +15,7 @@ The brain belongs to Central Nervous System (CNS) and it is composed by encephal
 
 DEFINITION
 
-The Cortical Deafness (CD) is a pathology of the brain whose patients are unresponsive to all types of sounds (verbal and no verbal) while its peripheral auditory is intact. This term was created by Wernicke in 1883 whose patient had a bilateral damage in the temporal lobes. However, the Auditory Agnosia (AA) is a pathology which symptom is the incapacity to recognize auditory stimuli. The AA may classify in three general groups:
+The Cortical Deafness (CD) is a pathology of the brain whose patients are unresponsive to all types of sounds (verbal and no verbal) while its peripheral hearing is intact. This term was created by Wernicke in 1883 whose patient had a bilateral damage in the temporal lobes. However, the Auditory Agnosia (AA) is a pathology which symptom is the incapacity to recognize auditory stimuli. The AA may classify in three general groups:
 
 •	Auditory agnosia to sounds: incapacity to recognize family sounds of the environment but they can understand words.
 
@@ -25,11 +25,11 @@ The Cortical Deafness (CD) is a pathology of the brain whose patients are unresp
 
 The CD and the AA are associated with damage in the temporal lobes cortexes, auditory radiatons or basal ganglia and those lesions are produced by pathologies as CVA or they may be associated to other pathologies as virus (simplex herpes), Mitochondrial disorders (MELAS) or syndrome (Landau- Kleffner), which they are affecting to areas related with the language. 
 
-Clinic presentations these patients have periphery auditory intact and theirs spontaneous speech, read and write are more preserved than oral repetition or dictated which are severely affected. When the lesion is very long and it has damaged other lobes, the patient may show other symptoms which will be joined to language impairment.
+Clinic presentations these patients have periphery hearing intact and theirs spontaneous speech, read and write are more preserved than oral repetition or dictated which are severely affected. When the lesion is very long and it has damaged other lobes, the patient may show other symptoms which will be joined to language impairment.
 
 WHY SHOULD WE RESEARCH CORTICAL DEAFNESS AND AUDITORY AGNOSIA?
 
-Tirst of all, cortical deafness and auditory agnosia are pathologies whose patients have difficulties to understand what they are hearing. Although CD was identified at the end of the 19th century, nowadays the CD and the AA both are still being rare and uncommon deficits. Given there are not much research about Cortical deafness and Auditory Agnosia and theirs results are so vary that there are several gaps in different aspects of the pathologies they should be investigated.
+First of all, cortical deafness and auditory agnosia are pathologies whose patients have difficulties to understand what they are hearing. Although CD was identified at the end of the 19th century, nowadays the CD and the AA both are still being rare and uncommon deficits. Given there are not much research about Cortical deafness and Auditory Agnosia and theirs results are so vary that there are several gaps in different aspects of the pathologies they should be investigated.
 
 Secondly, these pathologies may be not diagnosis correctly because there are patients that do not have language impairment such as auditory agnosia to sounds. They can understand words but they cannot identify environment sounds (e g. ambulance siren) and this deficit may affect the diary life activities. Additionally, prelingual children may be diagnosis as sensorineural hearing loss because they do not have any language in the moment of the assessment. Besides, the patients with MELAS may be diagnosed as sensorineural hearing loss but it is possible the cochlea is intact and the problem is in the brain lesion. 
 
