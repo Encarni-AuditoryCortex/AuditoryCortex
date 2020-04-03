@@ -5,7 +5,7 @@ mail: encarni.speechtherapy9@gmail.com
 
 DOI 10.5281/zenodo.2529046 
 
-This repository has been created to share my investigation project about the brain, specifically on the Cortical Deafness and the Auditory Agnosia. At the moment the project is in the first phase: “literature review”. 
+This repository has been created to share my research project about the brain, specifically on the Cortical Deafness and the Auditory Agnosia. At the moment the project is in the first phase: “literature review”. 
 
 Project of investigation: Cortical Deafness and the Auditory Agnosia
 
@@ -35,8 +35,7 @@ Secondly, these pathologies may be not diagnosis correctly because there are pat
 
 Studies about CD or AA conclude that the temporal lobes cortex lesion cause these pathologies, but there is not agreement what part or parts of the temporal lobes are implicate for produce these language deficits. Other studies have concluded that auditory radiatons, basal ganglia even insula lobe may cause CD or AA. Furthermore, if the pathology has been produced by unilateral or bilateral lesion is another question that it is not clarified yet. When the lesion is very long and it affect other lobes (frontal, parietal or occipital), language deficits may be confuse as well as more varying and dubious causality, so the assessment and the diagnosis are very complicate to these patients. Language impairments are the oral repetition and the dictate, but spontaneous speech, writer and read are more preserved. Nevertheless, linguistic problems vary between patients even when all of them only have the lesion in the temporal lobe. The hearing is not affected although several studies show audiometries within and without sensorineural hearing loss. However, the auditory brainstem responses (ABR) of either ear confirm the integrity of the auditory nerves and pathways up to the inferior colliculi of both sides. This means that the auditory system has not problems and the patient can hearing. 
 
-The rehabilitation to those pathologies almost doesn't exist. Some studies suggest that the lips reading or signed language can help them to
-communicate with other people.
+The rehabilitation to those pathologies almost doesn't exist. Some studies suggest that the lips reading or signed language can help them to communicate with other people.
 
 PROPOSAL OF INVESTIGATION
 
