@@ -23,7 +23,7 @@ The Cortical Deafness (CD) is a pathology of the brain whose patients are unresp
 
 •	Amusia: incapacity to recognize feature of the music (melody, key or rhythm) and it may be congenital (before of birth) or acquired (caused by brain damage). 
 
-The CD and the AA are associated with damage in the temporal lobes cortexes, auditory radiatons or basal ganglia and those lesions are produced by pathologies as CVA or they may be associated to other pathologies as virus (simplex herpes), Mitochondrial disorders (MELAS) or syndrome (Landau- Kleffner), which they are affecting to areas related with the language. 
+The Cortical Deafness and the AA are associated with damage in the temporal lobes cortexes, auditory radiatons or basal ganglia and those lesions are produced by pathologies as CVA or they may be associated to other pathologies as virus (simplex herpes), Mitochondrial disorders (MELAS) or syndrome (Landau- Kleffner), which they are affecting to areas related with the language. 
 
 Clinic presentations these patients have periphery hearing intact and theirs spontaneous speech, read and write are more preserved than oral repetition or dictated which are severely affected. When the lesion is very long and it has damaged other lobes, the patient may show other symptoms which will be joined to language impairment.
 
