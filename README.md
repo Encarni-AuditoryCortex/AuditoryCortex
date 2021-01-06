@@ -45,6 +45,7 @@ The rehabilitation to those pathologies almost doesn't exist. Moreover, some stu
 
 
 LICENSE: https://github.com/Encarni-AuditoryCortex/AuditoryCortex/blob/master/LICENSE.txt
+
 CODE OF CONDUCT: https://github.com/Encarni-SpeechTherapy/AuditoryCortex/blob/master/CODE_OF_CONDUCT.md
 
 
