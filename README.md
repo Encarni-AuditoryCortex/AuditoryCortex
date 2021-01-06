@@ -40,31 +40,7 @@ First of all, cortical deafness and auditory agnosia are pathologies whose patie
 
 Secondly, these pathologies may be not diagnosis correctly because there are patients that do not have language impairment such as auditory agnosia to sounds. They can understand words but they cannot identify environment sounds (e g. ambulance siren) and this deficit may affect the diary life activities. Additionally, prelingual children may be diagnosis as sensorineural hearing loss because they do not have any language in the moment of the assessment. Besides, the patients with MELAS may be diagnosed as sensorineural hearing loss but it is possible the cochlea is intact and the problem is in the brain lesion. 
 
-Studies about CD or AA conclude that the temporal lobes cortex lesion cause these pathologies, but there is not agreement what part or parts of the temporal lobes are implicate for produce these language deficits. Other studies have concluded that auditory radiatons, basal ganglia even insula lobe may cause CD or AA. Furthermore, if the pathology has been produced by unilateral or bilateral lesion is another question that it is not clarified yet. When the lesion is very long and it affect other lobes (frontal, parietal or occipital), language deficits may be confuse as well as more varying and dubious causality, so the assessment and the diagnosis are very complicate to these patients. Language impairments are the oral repetition and the dictate, but spontaneous speech, writer and read are more preserved. Nevertheless, linguistic problems vary between patients even when all of them only have the lesion in the temporal lobe. The hearing is not affected although several studies show audiometries within and without sensorineural hearing loss. However, the auditory brainstem responses (ABR) of either ear confirm the integrity of the auditory nerves and pathways up to the inferior colliculi of both sides. This means that the auditory system has not problems and the patient can hearing. 
-
-So, a proposal of investigation to these pathologies it could be:
-
-PROPOSAL OF INVESTIGATION
-
-Given the researches about cortical deafness and auditory agnosia are limited and theirs results are very varied it is proposed an epidemiology study to define those pathologies.
-
- So, the objectives of the study are:
- 
-•	The brain areas involved in the cortical deafness and auditory agnosia.
-
-•	Etiology of the cortical deafness and the auditory agnosia.
-
-•	Age in the moment of the lesion and when cortical deafness or agnosia auditory was diagnosed.
-
-•	Periphery hearing of the patient assessment with audiometry and ABR.
-
-•	Gender more affected in the cortical deafness and auditory agnosia.
-
-•	Clinic feature of language in the cortical deafness and auditory agnosia. 
-
-Subsequently to the epidemiology study it is proposed the neuronal and cognitive study and to establish the rehabilitation to improve the quality of life of the patients. This rehabilitation is open to new technologies that may help patients to communicate with other people of way independent. 
-
-The rehabilitation to those pathologies almost doesn't exist. Moreover, some studies suggest that the lips reading or signed language can help them to communicate with other people.
+Studies about CD or AA conclude that the temporal lobes cortex lesion cause these pathologies, but there is not agreement what part or parts of the temporal lobes are implicate for produce these language deficits. Other studies have concluded that auditory radiatons, basal ganglia even insula lobe may cause CD or AA. Furthermore, if the pathology has been produced by unilateral or bilateral lesion is another question that it is not clarified yet. When the lesion is very long and it affect other lobes (frontal, parietal or occipital), language deficits may be confuse as well as more varying and dubious causality, so the assessment and the diagnosis are very complicate to these patients. Language impairments are the oral repetition and the dictate, but spontaneous speech, writer and read are more preserved. Nevertheless, linguistic problems vary between patients even when all of them only have the lesion in the temporal lobe. The hearing is not affected although several studies show audiometries within and without sensorineural hearing loss. However, the auditory brainstem responses (ABR) of either ear confirm the integrity of the auditory nerves and pathways up to the inferior colliculi of both sides. This means that the auditory system has not problems and the patient can hearing. In addition, the rehabilitation to those pathologies almost doesn't exist. Moreover, some studies suggest that the lips reading or signed language can help them to communicate with other people.
 
 
 LICENSE: https://github.com/Encarni-AuditoryCortex/AuditoryCortex/blob/master/LICENSE.txt
