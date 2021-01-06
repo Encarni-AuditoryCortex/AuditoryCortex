@@ -7,7 +7,7 @@ DOI 10.5281/zenodo.2529046
 
 This repository has been created to share my research project about the brain about Auditory Cortex.  At the moment the project is in the first phase: “literature review”. 
 
-Project of investigation: Auditory Cortex
+Project of investigation: Central Auditory Processing
 
 Thanks to the research on the brain, nowadays we have a lot of information about what this organ is made of and how it works. This has been very useful to the human being evolve in different aspects such as healthy care, improvements in neurosurgery or neurological rehabilitation. In addition to the field of neuroscience, another discipline that has benefited has been technology such as Deep Learning, Machine Learning and Artificial Intelligence, which had its beginnings by copying the composition and the neural network from the brain. We certainly have to say that thanks to this improvement in technology, advances in neuroscience were possible, that is, they are disciplines that complement each other to improve their effectiveness. However, we still do not know too much information to deal with the different pathologies that the brain can present and we lack the necessary technology to be able to advance in research. Therefore, it is very important to continue investigating and we have to do it as multidisciplinary as possible. 
 
