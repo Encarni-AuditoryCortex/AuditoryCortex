@@ -1,4 +1,4 @@
-# The-Brain-is-Wonderful
+# Auditory Cortex
 Contact: Encarnación Martínez Álvarez
 
 mail: encarni.speechtherapy9@gmail.com
@@ -58,7 +58,7 @@ Given the researches about cortical deafness and auditory agnosia are limited an
 Subsequently to the epidemiology study it is proposed the neuronal and cognitive study and to establish the rehabilitation to improve the quality of life of the patients. This rehabilitation is open to new technologies that may help patients to communicate with other people of way independent. 
 
 
-LICENSE: https://github.com/Encarni-SpeechTherapy/The-Brain-is-Wonderful/blob/master/LICENSE.txt
+LICENSE: https://github.com/Encarni-SpeechTherapy/AuditoryCortex/blob/master/CODE_OF_CONDUCT.md
 
 CODE OF CONDUCT: https://github.com/Encarni-SpeechTherapy/The-Brain-is-Wonderful/blob/master/CODE_OF_CONDUCT.md
 
