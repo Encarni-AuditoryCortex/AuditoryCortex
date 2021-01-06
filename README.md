@@ -20,9 +20,8 @@ THE BRAIN AND THE BRAIN INJURY
 
 When a part of the brain suffers a stroke, it generally causes a loss of the abilities corresponding to the damaged area. The degree of involvement is related to the size of the lesion, which can be reduced by a rapid medical response. Brain damage on the temporal lobe can cause Wernicke's in which the subject presents alterations in the understanding of language. Other type of pathologies are cortical deafness and auditory agnosias, in which the patients may present alterations in processing in everything they are hearing, or they don’t only understand the language or complex sounds or music. Some brain regions and cells have a selective vulnerability when they are damaged, namely, they are resistant depending of place on the brain, kind of cell or stimulus (ischemia, hypoxia...). 
 In addition, a brain injury produces a series of cellular mechanisms that lead to neuronal death such as necrosis (cell death mainly due to excitotoxicity), or apoptosis (programmed neuronal death by carrying out a series of intrinsic and extrinsic activations), or necropsis (cell death with stimulus external similar to apoptosis), or delayed cell death (with a mechanism similar to apoptosis). These mechanisms are the result of harmful behaviors in cells such as excitotoxicity (particularly glutamate binding to the N-methyl-D-aspartate (NMDA) receptor, with increased calcium inside the cell) and Nitric Oxide (it can be beneficial with a cell protective or harmful by increasing calcium inside the cell or damage non-neuronal cells). The natural stimulus and the intensity to which the cell is subjected, the type of neuron and state in its life cycle, are the variables that most influence to decide if it will be necrosis or apoptosis. 
-Then, we need to know what properties have each neuron on the auditory cortex and how these neurons are connected forming neuronal circuits. It is important learn what neuronal circuits are underlying throughout the auditory processing and the language, where they are connecting in each layer and how the different neurons work before different stimulus,  because it could be useful to building some devices with high technology to help people with auditory processing impairment.
 
-
+Then, we need to know what properties have each neuron on the auditory cortex and how these neurons are connected forming neuronal circuits. It is important learn what neuronal circuits are underlying throughout the auditory processing and the language, where they are connecting in each layer and how the different neurons work before different stimulus,  because it could be useful to building some devices with high technology to help people with auditory processing impairment. 
 
 PATHOLOGIES WITH THE AUDITORY PROCESSING DAMAGED
 
@@ -42,6 +41,28 @@ First of all, cortical deafness and auditory agnosia are pathologies whose patie
 Secondly, these pathologies may be not diagnosis correctly because there are patients that do not have language impairment such as auditory agnosia to sounds. They can understand words but they cannot identify environment sounds (e g. ambulance siren) and this deficit may affect the diary life activities. Additionally, prelingual children may be diagnosis as sensorineural hearing loss because they do not have any language in the moment of the assessment. Besides, the patients with MELAS may be diagnosed as sensorineural hearing loss but it is possible the cochlea is intact and the problem is in the brain lesion. 
 
 Studies about CD or AA conclude that the temporal lobes cortex lesion cause these pathologies, but there is not agreement what part or parts of the temporal lobes are implicate for produce these language deficits. Other studies have concluded that auditory radiatons, basal ganglia even insula lobe may cause CD or AA. Furthermore, if the pathology has been produced by unilateral or bilateral lesion is another question that it is not clarified yet. When the lesion is very long and it affect other lobes (frontal, parietal or occipital), language deficits may be confuse as well as more varying and dubious causality, so the assessment and the diagnosis are very complicate to these patients. Language impairments are the oral repetition and the dictate, but spontaneous speech, writer and read are more preserved. Nevertheless, linguistic problems vary between patients even when all of them only have the lesion in the temporal lobe. The hearing is not affected although several studies show audiometries within and without sensorineural hearing loss. However, the auditory brainstem responses (ABR) of either ear confirm the integrity of the auditory nerves and pathways up to the inferior colliculi of both sides. This means that the auditory system has not problems and the patient can hearing. 
+
+So, a proposal of investigation to these pathologies it could be:
+
+PROPOSAL OF INVESTIGATION
+
+Given the researches about cortical deafness and auditory agnosia are limited and theirs results are very varied it is proposed an epidemiology study to define those pathologies.
+
+ So, the objectives of the study are:
+ 
+•	The brain areas involved in the cortical deafness and auditory agnosia.
+
+•	Etiology of the cortical deafness and the auditory agnosia.
+
+•	Age in the moment of the lesion and when cortical deafness or agnosia auditory was diagnosed.
+
+•	Periphery hearing of the patient assessment with audiometry and ABR.
+
+•	Gender more affected in the cortical deafness and auditory agnosia.
+
+•	Clinic feature of language in the cortical deafness and auditory agnosia. 
+
+Subsequently to the epidemiology study it is proposed the neuronal and cognitive study and to establish the rehabilitation to improve the quality of life of the patients. This rehabilitation is open to new technologies that may help patients to communicate with other people of way independent. 
 
 The rehabilitation to those pathologies almost doesn't exist. Moreover, some studies suggest that the lips reading or signed language can help them to communicate with other people.
 
