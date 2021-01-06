@@ -23,6 +23,10 @@ In addition, a brain injury produces a series of cellular mechanisms that lead t
 
 Then, we need to know what properties have each neuron on the auditory cortex and how these neurons are connected forming neuronal circuits. It is important learn what neuronal circuits are underlying throughout the auditory processing and the language, where they are connecting in each layer and how the different neurons work before different stimulus,  because it could be useful to building some devices with high technology to help people with auditory processing impairment. 
 
+METHOLOGY
+
+The method it will be based in analysis of dates and modeling. We do not work in lab of animal experimentation, but we take the data and we will work with them using software to answer hypothesis. 
+
 PATHOLOGIES WITH THE AUDITORY PROCESSING DAMAGED
 
 The Cortical Deafness (CD) is pathology of the brain whose patients are unresponsive to all types of sounds (verbal and no verbal) while its peripheral hearing is intact. This term was created by Wernicke in 1883 whose patient had a bilateral damage in the temporal lobes. However, the Auditory Agnosia (AA) is a pathology which symptom is the incapacity to recognize auditory stimuli. The AA may classify in three general groups:
